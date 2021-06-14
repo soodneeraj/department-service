@@ -26,3 +26,4 @@ public class DepartmentService {
 		return departmentRepository.findByDepartmentId(departmentId);
 	}
 }
+
